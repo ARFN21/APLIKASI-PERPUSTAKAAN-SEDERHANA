@@ -15,7 +15,7 @@ menggunakan pemformatan kolom agar rapi dan mudah dibaca.
 Pastikan g++ terpasang, kemudian kompilasi dan jalankan:
 
 ```bash
-g++ -std=c++17 main.cpp -o library_app
+g++ -std=c++17 aplikasi perpustakaan sederhana.cpp -o library_app
 ./library_app
 ```
 
